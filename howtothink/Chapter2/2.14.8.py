@@ -1,0 +1,6 @@
+time_now=int(input('Enter the time now:'))
+#print(time_now)
+hours_to_wait=int(input('Enter the number of hours to wait:'))
+#print(hours_to_wait)
+alarm_goes_off=((hours_to_wait % 24)+time_now)
+print(alarm_goes_off)

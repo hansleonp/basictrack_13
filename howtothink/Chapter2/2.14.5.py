@@ -1,0 +1,6 @@
+rate = float(0.05)
+amount = int(500)
+number = int(6)
+years = int(2)
+value = (amount * (1 + rate / number) **(number*years))
+print(value)
