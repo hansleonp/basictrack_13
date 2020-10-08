@@ -10,16 +10,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70b304ea-4724-48fd-a8af-283b7e97758f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/howtothink/Chapter2/2.14.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howtothink/Chapter2/2.14.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howtothink/Chapter2/2.14.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howtothink/Chapter2/2.14.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howtothink/Chapter2/2.14.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/howtothink/Chapter2/2.14.8.py" afterDir="false" />
+    <list default="true" id="70b304ea-4724-48fd-a8af-283b7e97758f" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/howtothink/Chapter 3/3.4.4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/howtothink/Chapter 3/3.4.4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/howtothink/Chapter 3/3.4.4.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/howtothink/Chapter 3/mandala.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/howtothink/Chapter 3/mandala1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 3/Boolean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 3/bookwork.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 3/froloops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 3/logical_operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/howtothink/2.14.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/howtothink/Chapter2/2.14.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/howtothink/2.14.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/howtothink/Chapter2/2.14.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +48,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pawla\PycharmProjects\basictrack\howtothink\Chapter 3" />
       <recent name="C:\Users\pawla\PycharmProjects\basictrack" />
       <recent name="C:\Users\pawla\PycharmProjects\basictrack\howtothink" />
       <recent name="C:\Users\pawla\PycharmProjects\basictrack\howtothink\Chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2.14.8">
-    <configuration name="2.14.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3.4.4.2">
+    <configuration name="3.4.4.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basictrack" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/howtothink/Chapter2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/howtothink/Chapter2/2.14.4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\pawla\PycharmProjects\basictrack\howtothink\Chapter 3\3.4.4.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.14.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.4.4.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basictrack" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/howtothink/Chapter2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/howtothink/Chapter 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/howtothink/Chapter2/2.14.5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/howtothink/Chapter 3/3.4.4.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.14.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Boolean" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basictrack" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/howtothink/Chapter2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/howtothink/Chapter2/2.14.6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week 3/Boolean.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.14.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="froloops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basictrack" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/howtothink/Chapter2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/howtothink/Chapter2/2.14.7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week 3/froloops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.14.8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="logical_operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basictrack" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/howtothink/Chapter2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/howtothink/Chapter2/2.14.8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week 3/logical_operators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.14.8" />
-        <item itemvalue="Python.2.14.7" />
-        <item itemvalue="Python.2.14.6" />
-        <item itemvalue="Python.2.14.5" />
-        <item itemvalue="Python.2.14.4" />
+        <item itemvalue="Python.3.4.4.2" />
+        <item itemvalue="Python.3.4.4.1" />
+        <item itemvalue="Python.logical_operators" />
+        <item itemvalue="Python.Boolean" />
+        <item itemvalue="Python.froloops" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +179,14 @@
       <option name="presentableId" value="Default" />
       <updated>1600716080315</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1601394210067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601394210067</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,7 +202,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" width="814" height="728" key="#Intentions" timestamp="1600780746206">
@@ -207,6 +218,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600717573263" />
+    <state x="897" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601995428706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="897" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1601995428706" />
     <state x="911" y="354" key="Github.ShareDialog" timestamp="1600718064944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -215,30 +230,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="834" y="161" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600718072789" />
-    <state width="433" height="210" key="GridCell.Tab.0.bottom" timestamp="1600939657115">
+    <state width="868" height="244" key="GridCell.Tab.0.bottom" timestamp="1601998095772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="433" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600939657115" />
-    <state width="433" height="210" key="GridCell.Tab.0.center" timestamp="1600939657115">
+    <state width="868" height="244" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601998095772" />
+    <state width="868" height="244" key="GridCell.Tab.0.center" timestamp="1601998095772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="433" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600939657115" />
-    <state width="433" height="210" key="GridCell.Tab.0.left" timestamp="1600939657115">
+    <state width="868" height="244" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601998095772" />
+    <state width="868" height="244" key="GridCell.Tab.0.left" timestamp="1601998095772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="433" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600939657115" />
-    <state width="433" height="210" key="GridCell.Tab.0.right" timestamp="1600939657115">
+    <state width="868" height="244" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601998095772" />
+    <state width="868" height="244" key="GridCell.Tab.0.right" timestamp="1601998095772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="433" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600939657115" />
-    <state x="510" y="173" key="Vcs.Push.Dialog.v2" timestamp="1601393588103">
+    <state width="868" height="244" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601998095772" />
+    <state x="510" y="173" key="Vcs.Push.Dialog.v2" timestamp="1601394215000">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="510" y="173" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601393588103" />
+    <state x="510" y="173" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601394215000" />
     <state x="741" y="414" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600939969405">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="741" y="414" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1600939969405" />
+    <state x="460" y="0" width="648" height="588" key="dock-window-1" timestamp="1601997569474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="460" y="0" width="648" height="588" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1601997569474" />
     <state x="566" y="304" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600716925761">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
